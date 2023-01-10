@@ -20,7 +20,7 @@ Com funcionalidade de busca e favoritar personagem.
 </br>
 
 <p float="left" align="center">
-TELAS DO APLICATIVO. FOQUE EM MOSTRAR O QUE É BONITO E IMPORTANTE NO SEU APLICATIVO
+<img alt="screenshot" width"30%" src="screenshot/screenshot_01.jpgg"/>
 </p>
 
 ## Download
