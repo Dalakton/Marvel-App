@@ -27,7 +27,6 @@ Com funcionalidade de busca e favoritar personagem.
 </p>
 
 ## Download
-BADGE DA PLAYSTORE https://play.google.com/intl/en_us/badges/
 
 Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
 
