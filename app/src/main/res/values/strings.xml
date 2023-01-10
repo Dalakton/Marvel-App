@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="item_name">Homem-Aranha</string>
+    <string name="item_description">Descriçao </string>
+    <string name="tv_empty_text">Nada aqui.</string>
+    <string name="an_error_ocurred">Um erro ocorreu.</string>
+    <string name="tv_empty_description">Este personagem não possui descrição.</string>
+    <string name="search_hint">Pesquise um personagem</string>
+    <string name="comics">Comics</string>
+    <string name="saved_successfully">Salvo com sucesso!</string>
+    <string name="dialog_title_text">DELETAR</string>
+    <string name="dialog_message_text">Deseja realmente deletar esse personagem?</string>
+    <string name="dialog_positive_text">Deletar</string>
+    <string name="dialog_negative_text">Cancelar</string>
+    <string name="empty_list_comics">Esse personagem não possui comics</string>
+    <string name="close_dialog">Fechar</string>
+    <string name="favorite">Favoritar</string>
+    <string name="message_delete_character">Deletado com sucesso!</string>
+
+
+
+
+</resources>
