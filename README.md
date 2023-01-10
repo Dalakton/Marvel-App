@@ -20,10 +20,10 @@ Com funcionalidade de busca e favoritar personagem.
 </br>
 
 <p float="left" align="center">
-<img alt="screenshot" width"30%" src="screenshots/Screenshot_01.marvelapp.png"/>
-<img alt="screenshot" width"30%" src="screenshots/Screenshot_02.marvelapp.png"/>
-<img alt="screenshot" width"30%" src="screenshots/Screenshot_03.marvelapp.png"/>
-<img alt="screenshot" width"30%" src="screenshots/Screenshot_04.marvelapp.png"/>
+<img alt="screenshot" width"05%" src="screenshots/Screenshot_01.marvelapp.png"/>
+<img alt="screenshot" width"05%" src="screenshots/Screenshot_02.marvelapp.png"/>
+<img alt="screenshot" width"05%" src="screenshots/Screenshot_03.marvelapp.png"/>
+<img alt="screenshot" width"05%" src="screenshots/Screenshot_04.marvelapp.png"/>
 </p>
 
 ## Download
