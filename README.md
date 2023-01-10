@@ -32,8 +32,8 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 
 ## Tecnologias usadas e bibliotecas de código aberto
 
-- Nível mínimo do SDK COLOQUE AQUI A APK MINIMA
-- [Linguagem Kotlin](https://kotlinlang.org/) OU JAVA SE USAR JAVA
+- Nível mínimo do SDK : 23
+- [Linguagem Kotlin](https://kotlinlang.org/) 
 
 - Jetpack - LISTE O MÁXIMO DE COMPONENTES DO JETPACK QUE VOCÊ USA
   - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
