@@ -1,7 +1,7 @@
 <h1 align="center">Marvel App</h1>
 
 <p align="center">
-  TAG DA LICENÇA <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0 -blue.svg"/></a>
+ <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0 -blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=23"><img src="https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat" border="0" alt="API"></a>
   <br>
   <a href="https://wa.me/+5581996308063"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo =whatsapp&logoColor=white"/></a>
@@ -20,10 +20,10 @@ Com funcionalidade de busca e favoritar personagem.
 </br>
 
 <p float="left" align="center">
-<img alt="screenshot" width"30%" src="screenshot/Screenshot_01.marvelapp.png"/>
-<img alt="screenshot" width"30%" src="screenshot/Screenshot_02.marvelapp.png"/>
-<img alt="screenshot" width"30%" src="screenshot/Screenshot_03.marvelapp.png"/>
-<img alt="screenshot" width"30%" src="screenshot/Screenshot_04.marvelapp.png"/>
+<img alt="screenshot" width"30%" src="screenshots/Screenshot_01.marvelapp.png"/>
+<img alt="screenshot" width"30%" src="screenshots/Screenshot_02.marvelapp.png"/>
+<img alt="screenshot" width"30%" src="screenshots/Screenshot_03.marvelapp.png"/>
+<img alt="screenshot" width"30%" src="screenshots/Screenshot_04.marvelapp.png"/>
 </p>
 
 ## Download
