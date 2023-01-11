@@ -35,28 +35,39 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 - Nível mínimo do SDK : 23
 - [Linguagem Kotlin](https://kotlinlang.org/) 
 
-- Jetpack Compose
+- Jetpack 
   - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
   - ViewModel: Gerencia o detentor de dados relacionados à interface do usuário e o ciclo de vida. Permite que os dados sobrevivam a alterações de configuração, como rotações de tela.
   - ViewBinding: Liga os componentes do XML no Kotlin através de uma classe que garante segurança de tipo e outras vantagens.
   - Room: Biblioteca de abstração do banco de dados SQLite que garante segurança em tempo de construção e facilidade de uso.
   - Custom Views: View customizadas feitas do zero usando XML.
+  - Navigation Components :  ajuda você a implementar a navegação, desde simples cliques em botões até padrões mais complexos.
  
 
 - Arquitetura
   - MVVM (View - ViewModel - Model)
-  - Comunicação da ViewModel com a View através de LiveData
   - Comunicação da ViewModel com a Model através de Kotlin Flow
   - Repositories para abstração da comunicação com a camada de dados.
+
+   - Clean architeture
+   - Utilizando o clean , teremos camadas separadas e com objetivos unicos, criando assim , um fluxo mais testavel
+   - Cada camada conhece apenas camadas de dentro
+   - A view cinhece apenas a ViewModel, a ViewModel conhece apenas os UseCases, e os UsesCases conhece apenas os repositórios 
   
 - Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
   - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
+  - [koin](https://insert-koin.io/): Para innjeção de depêndencia.
+  - [Coroutines](https://developer.android.com/kotlin/coroutines?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNlUORYL2TRBieCyv6wMCzF-h8unUNie7vi_RkiL736dTgowO-wJb6saAoJ1EALw_wcB&gclsrc=aw.ds): Para gerenciar tarefas de longas duração , podendo travar o app , utilizamos a coroutines para executar tarefas em segundo plano.
+ 
  
  
 ## Arquitetura
 
 **Marvel app** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
+</br></br>
+
+**Marvel app** utiliza também a arquitetura Clean Architeture e o padrão de separação de camadas e responsabilidades, que segue as [recomendações ](https://www.objective.com.br/insights/clean-architecture-com-mvvm/).
 </br></br>
 
 
