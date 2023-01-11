@@ -57,7 +57,7 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 - Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
   - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
-  - [koin](https://insert-koin.io/): Para innjeção de depêndencia.
+  - [koin](https://insert-koin.io/): Para injeção de depêndencia e mais desacoplamento de código.
   - [Coroutines](https://developer.android.com/kotlin/coroutines?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNlUORYL2TRBieCyv6wMCzF-h8unUNie7vi_RkiL736dTgowO-wJb6saAoJ1EALw_wcB&gclsrc=aw.ds): Para gerenciar tarefas de longas duração , podendo travar o app , utilizamos a coroutines para executar tarefas em segundo plano.
  
  
