@@ -35,53 +35,32 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 - Nível mínimo do SDK : 23
 - [Linguagem Kotlin](https://kotlinlang.org/) 
 
-- Jetpack - LISTE O MÁXIMO DE COMPONENTES DO JETPACK QUE VOCÊ USA
+- Jetpack Compose
   - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
   - ViewModel: Gerencia o detentor de dados relacionados à interface do usuário e o ciclo de vida. Permite que os dados sobrevivam a alterações de configuração, como rotações de tela.
   - ViewBinding: Liga os componentes do XML no Kotlin através de uma classe que garante segurança de tipo e outras vantagens.
   - Sala: Biblioteca de abstração do banco de dados SQLite que garante segurança em tempo de construção e facilidade de uso.
   - Custom Views: View customizadas feitas do zero usando XML.
-  - [...]
+ 
 
-- Arquitetura - LISTE BREVEMENTE OS COMPONENTES DA SUA ARQUITETURA UTILIZADA
+- Arquitetura
   - MVVM (View - ViewModel - Model)
   - Comunicação da ViewModel com a View através de LiveData
   - Comunicação da ViewModel com a Model através de Kotlin Flow
   - Repositories para abstração da comunicação com a camada de dados.
   
-- Bibliotecas - LISTE TODAS AS BIBLIOTECAS USADAS NO PROJETO, COM LINK E DESCRIÇÃO BREVE DO QUE ELA FAZ
+- Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
   - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
-  - [Timber](https://github.com/JakeWharton/timber): Para registros de logs mais amigáveis ​​que facilitam o debug.
-  - [...]
-
+ 
+ 
 ## Arquitetura
-APRESENTE A ARQUITETURA UTILIZADA NO PROJETO
-**Nome do aplicativo** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
+
+**Marvel app** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
-ADICIONE UM FLUXOGRAMA DA ARQUITETURA UTILIZADA - https://excalidraw.com/
-<br>
+
 
 ## API de terceiros
 
-COLOQUE O NOME, LINK E DESCRIÇÃO DAS APIS UTILIZADAS NO PROJETO
+[Marvel Api](https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0)
 
-## Recursos
-
-### Recurso 1
-<img src="screenshots/feature-1.gif" width="25%"/>
-
-Texto de exemplo
-
-### Recurso 2
-<img src="screenshots/feature-2.gif" width="25%"/>
-
-Texto de Exemplo.
-
-# Licença
-
-COLOQUE A LICENÇA - https://opensource.org/licenses
-
-```xml
-
-```
