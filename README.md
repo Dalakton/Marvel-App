@@ -52,7 +52,7 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
    - Clean architeture
    - Utilizando o clean , teremos camadas separadas e com objetivos unicos, criando assim , um fluxo mais testavel
    - Cada camada conhece apenas camadas de dentro
-   - A view cinhece apenas a ViewModel, a ViewModel conhece apenas os UseCases, e os UsesCases conhece apenas os repositórios 
+   - A view conhece apenas a ViewModel, a ViewModel conhece apenas os UseCases, e os UsesCases conhece apenas os repositórios 
   
 - Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
